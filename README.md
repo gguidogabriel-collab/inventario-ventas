@@ -71,3 +71,11 @@ El sistema está organizado en capas: modelos, controladores y servicios.
 Interfaz simple e intuitiva para el usuario.
 
 Proyecto académico enfocado en buenas prácticas de programación en PHP.
+
+## Capturas
+
+![Pantalla principal](capturas/principal.png)
+
+![Gestión de productos](capturas/productos.png)
+
+![Registro de ventas](capturas/ventas.png)
