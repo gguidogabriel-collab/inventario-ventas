@@ -59,3 +59,5 @@ No aplica, ya que el sistema no utiliza login.
 Guido García
 
 Proyecto realizado para la materia de Ingeniería de Software II.
+
+Sistema simple para gestión de inventario y ventas.
