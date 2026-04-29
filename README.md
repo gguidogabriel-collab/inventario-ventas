@@ -69,3 +69,5 @@ Incluye validaciones como precio mayor a 0 y stock no negativo.
 El sistema está organizado en capas: modelos, controladores y servicios.
 
 Interfaz simple e intuitiva para el usuario.
+
+Proyecto académico enfocado en buenas prácticas de programación en PHP.
