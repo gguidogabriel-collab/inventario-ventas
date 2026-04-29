@@ -61,3 +61,7 @@ Guido García
 Proyecto realizado para la materia de Ingeniería de Software II.
 
 Sistema simple para gestión de inventario y ventas.
+
+Permite registrar ventas y visualizar el historial de transacciones.
+
+Incluye validaciones como precio mayor a 0 y stock no negativo.
