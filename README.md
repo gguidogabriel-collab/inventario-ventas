@@ -57,3 +57,5 @@ No aplica, ya que el sistema no utiliza login.
 
 ## Autor
 Guido García
+
+Proyecto realizado para la materia de Ingeniería de Software II.
